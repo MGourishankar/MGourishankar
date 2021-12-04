@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+I'm Gourishankar Bhutra (Gouri), a software professional from India currently located in Amsterdam, Netherlands.
 
-<!--
-**MGourishankar/MGourishankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience
+10+ years of working experience in web development.
 
-Here are some ideas to get you started:
+## Primary skills
+Javascript using ES6+, Typescript, React, Redux, Angular, CI/CD & Architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MGourishankar&count_private=true&theme=react&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MGourishankar&langs_count=5&theme=react)]()
+
+[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=MGourishankar)](https://github.com/MGourishankar/github-contribution-stats/)
