@@ -1,5 +1,4 @@
 # Hi there 👋
-I'm Gourishankar Bhutra (Gouri), a software professional from India currently located in Amsterdam, Netherlands.
 
 ## Experience
 10+ years of working experience in web development.
