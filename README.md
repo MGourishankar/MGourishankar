@@ -1,5 +1,5 @@
 # Hi there 👋
-Passionate about making an impact.
+I'm Passionate about making an impact.
 
 ## Experience
 Over a decade of working experience in IT.
