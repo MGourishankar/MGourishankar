@@ -1,7 +1,8 @@
 # Hi there 👋
+Passionate about making an impact.
 
 ## Experience
-10+ years of working experience in web development.
+Over a decade of working experience in IT.
 
 ## Languages and Tools 👩‍💻
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
