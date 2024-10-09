@@ -1,5 +1,13 @@
 # Hi there 👋
-I'm Passionate about making an impact.
+Software professional with over a decade of
+industry experience in developing high-end
+products. I possess hands-on expertise in both
+front-end and back-end technologies, coupled
+with a strong architectural and product mindset
+to deliver comprehensive end-to-end features
+and solutions. My focus on accountability,
+customer centricity, and speed to market
+distinguishes me in the field.
 
 ## Experience
 Over a decade of working experience in IT.
