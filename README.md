@@ -1,5 +1,5 @@
 # Hi there 👋
-Software professional with over a decade of
+I'm a Software professional with over a decade of
 industry experience in developing high-end
 products. I possess hands-on expertise in both
 front-end and back-end technologies, coupled
